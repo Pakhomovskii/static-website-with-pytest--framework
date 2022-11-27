@@ -1,5 +1,6 @@
 # traveling-in-vietnam
- a simple scalable website https://pakhomovskii.github.io/static-website-with-pytest--framework/
+
+ a simple scalable website https://pakhomovskii.github.io/static-website-with-pytest-framework/
 
  > see tests here https://pakhomovskii.github.io/static-website-with-pytest-framework/PYTESTS
 
